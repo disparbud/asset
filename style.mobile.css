@@ -1,0 +1,46 @@
+@media only screen and (max-width: 480px) {
+    .counter-wrapper-3 {
+        margin-left: 50px;
+    }
+
+    .client-thumb, .client-content {
+        text-align: center;
+    }
+
+    .client-thumb .thumb {
+        margin: auto;
+    }
+
+    .city-mission li {
+        font-size: 15px;
+    }
+
+    .img-logo-adinda {
+        width: 300px;
+    }
+
+    .nav-bottom {
+        display: block !important;
+        height: 55px;
+        padding: 0rem 1rem;
+        background-color: rgba(255, 255, 255);
+        border-top: 2px solid #E0E0E0;
+    }
+
+    .nav-bottom i {
+        line-height: .5;
+    }
+
+    .main-nav {
+        border: none;
+        display: none;
+    }
+
+    #icon-bidang {
+        display: none;
+    }
+
+    .btn-main {
+        padding: 0 10px;
+    }
+}
